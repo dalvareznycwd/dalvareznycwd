@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on aaplying data science to solve business problems. 
 - 🌱 I’m currently learning deep learning methods.
 - 👯 I’m looking to collaborate on fun projects that add value to the business.
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with anomaly detection problems.
 - 💬 Ask me about statistic inference.
 - 📫 How to reach me: daniel.alvarez@workday.com
 - 😄 Pronouns: he/him
